@@ -18,7 +18,7 @@ const Login = React.createClass({
           <Row className='banner'>
             <Col className='text-center'>
               <h4><strong>DEMO</strong></h4>
-              <h1><strong>#WYWH</strong>: Wish You Were Here</h1>
+              <h1><strong>#WYWH</strong>: Wish You Were Here man!!!</h1>
               <div className='homepage-badges text-center'>
                 {/*<img src={require('../images/icon-bronze.svg')}/>*/}
                 <img src={require('../images/icon-gold.svg')}/>
